@@ -1,6 +1,6 @@
 # Diabetes Prediction with Machine Learning Techniques
 
-## Overveiw Overview
+## Overveiw
 
 The goal of this project is to leverage the power of machine learning to accurately predict diabetes. This involves several key steps, from initial data preprocessing to the application of sophisticated machine learning algorithms.
 
